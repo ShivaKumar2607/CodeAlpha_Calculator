@@ -61,11 +61,10 @@ CodeAlpha_Calculator/
 
 The calculator also supports keyboard input.
 
-- 0–9 → Numbers
-- + → Addition
-- - → Subtraction
-- * → Multiplication
-- / → Division
+- Addition (+)
+- Subtraction (−)
+- Multiplication (*)
+- Division (/)
 - Enter or = → Calculate
 - Backspace → Delete
 - Escape → Clear
