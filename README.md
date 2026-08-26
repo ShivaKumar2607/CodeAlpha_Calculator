@@ -91,4 +91,4 @@ This project was completed as part of my Frontend Development Internship at Code
 
 Shiva Kumar
 
-GitHub: [ShivaKumar2607]()
+GitHub: [ShivaKumar2607](https://github.com/ShivaKumar2607)
