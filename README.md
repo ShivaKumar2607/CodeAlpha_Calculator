@@ -61,6 +61,7 @@ CodeAlpha_Calculator/
 
 The calculator also supports keyboard input.
 
+- Numbers (0 - 9)
 - Addition (+)
 - Subtraction (−)
 - Multiplication (*)
